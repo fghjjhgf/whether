@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Whether</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--抽屉文字-->
+    <string name="drawer_add">添加</string>
+    <string name="drawer_position">地点</string>
+    <string name="drawer_setting">设置</string>
+    <string name="drawer_feedback">反馈</string>
+    <string name="drawer_about">关于</string>
+    <!--默认显示的文字-->
+    <string name="default_date_text">1月1日  周一</string>
+    <string name="default_now_temperature">0℃</string>
+    <string name="default_whether_text">null</string>
+    <string name="default_whether_concrete_content">湿度：未知%</string>
+    <string name="default_ad_content">这是一条广告内容</string>
+    <string name="default_fresh_text">最近更新：0分钟前</string>
+    <string name="default_temperature">0℃</string>
+    <string name="default_week">周一</string>
+    <string name="default_datacome">数据来源于中国天气网</string>
+    <string name="title_activity_add_position">AddPosition</string>
+    <string name="download">下载</string>
+    <string name="cancel">取消</string>
+
+    <!---->
+    <string name="hitcity">热门城市</string>
+    <string name="now_pos">当前位置：番禺</string>
+    <string name="hit_pos_edit_text">请输入城市名称</string>
+
+</resources>
